@@ -20,12 +20,12 @@
         "geolite"
     ],
     "dependencies": {
+        "binary-search": "^1.2",
         "csvly": "*",
         "ip": "^1.1.0",
-        "binary-search": "^1.2",
+        "moment": "^2.10.6",
         "request": "*",
-        "unzip": "^0.1.11",
-        "moment": "^2.10.6"
+        "unzip-stream": "^0.3.0"
     },
     "main": "index.js",
     "license": "MIT"
